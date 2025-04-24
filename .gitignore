@@ -1,0 +1,8 @@
+.*
+!.ebextensions
+!.github
+!.gitignore
+__pycache__/
+docker-compose.override.yml
+flask_session/
+tmp/.env

@@ -1,5 +1,5 @@
 # g-based
-A template for Google-authenticated flask applications.
+An indispensable template for Google-authenticated flask applications.
 
 ![g-based](static/g-based.jpg)
 
